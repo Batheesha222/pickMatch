@@ -1,0 +1,10 @@
+insert user
+login with user
+Error messages and validations
+add products and admins
+correct the foreign keys between tables
+cart and whishlist
+newsletter section
+add reviews
+arrivals, featured,blogs,brands, reviews in loop
+super admin and admin
